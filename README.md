@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 I am interested intelligent systems that learn, adapt, and operate in real-world environments.
+Reinforcement Learning enthusiast with a strong applied machine learning foundation, focused on building intelligent systems with impact.
 
-Reinforcement Learning researcher with a strong applied machine learning foundation, focused on building intelligent systems with impact.
 ---
 
 ## 🚀 What I Care About
@@ -53,7 +53,3 @@ Comfortable operating in ambiguity and taking ideas from concept to deployed sys
 - BTech, IIT Madras — Mechanical Engineering  
 
 ---
-
-## 📫 Reach Me
-- LinkedIn: [add link]
-- Email: [add email]

@@ -1,4 +1,4 @@
-## # Hi there👋
+## Hi there👋
 
 <!--
 **RamAnanth/RamAnanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +49,7 @@ Comfortable operating in ambiguity and taking ideas from concept to deployed sys
 
 ## 🎓 Academic Background
 
-- MASc, University of Toronto — Reinforcement Learning  
-- BTech, IIT Madras — Mechanical Engineering  
+- MASc, University of Toronto : Focussed on transfer learning and generalizability in Reinforcement Learning  
+- BTech, IIT Madras : Mechanical Engineering  
 
 ---
